@@ -51,7 +51,7 @@
 	</dependency>    
   </dependencies>
   <properties>
-  	<spring.version>5.2.7.RELEASE</spring.version>
+  	<spring.version>5.2.22.RELEASE</spring.version>
   	<jackson.version>2.11.1</jackson.version>
   </properties>
   <build>
